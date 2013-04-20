@@ -56,11 +56,11 @@ public final class R {
         public static final int button_select=0x7f060008;
         public static final int device_name=0x7f060006;
         public static final int msg_already_connect=0x7f06000f;
+        public static final int msg_bluetooth_disable=0x7f06000c;
         public static final int msg_connected=0x7f06000e;
         public static final int msg_connecting=0x7f06000d;
         public static final int msg_failed_to_connect=0x7f060010;
         public static final int msg_not_configured=0x7f060011;
-        public static final int msg_wifi_disable=0x7f06000c;
         public static final int title_activity_edit=0x7f06000b;
         /**  A format string for breadcrumbs in the titlebar.  For left to right languages, such as English, the format will look something like "Main Activity > Sub Activity > Sub Activity 2".  Item #1 is the previous path, item #2 is the separator, and item #3 is the current item.  For most left to right languages, this shouldn't need to be changed. 
          */

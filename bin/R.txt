@@ -21,11 +21,11 @@ int string button_close 0x7f06000a
 int string button_select 0x7f060008
 int string device_name 0x7f060006
 int string msg_already_connect 0x7f06000f
+int string msg_bluetooth_disable 0x7f06000c
 int string msg_connected 0x7f06000e
 int string msg_connecting 0x7f06000d
 int string msg_failed_to_connect 0x7f060010
 int string msg_not_configured 0x7f060011
-int string msg_wifi_disable 0x7f06000c
 int string title_activity_edit 0x7f06000b
 int string twofortyfouram_locale_breadcrumb_format 0x7f060000
 int string twofortyfouram_locale_breadcrumb_separator 0x7f060001
